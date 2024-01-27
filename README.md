@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Agarwal</h1>
 <h3 align="center">A passionate explorer, forever pushing the boundaries of what's possible with code..</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshuagarwal999&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshuagarwal999" /> </p>
 
@@ -7,11 +8,13 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-pink-eta.vercel.app/](https://my-portfolio-pink-eta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/DeepanshuAgarwal999?tab=repositories](https://github.com/DeepanshuAgarwal999?tab=repositories)
 
 - 💬 Ask me about **ReactJs and NextJs**
 
 - 📫 How to reach me **deepanshuagarwal9999@gmail.com**
+
+- ⚡My Portfolio **https://my-portfolio-pink-eta.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
