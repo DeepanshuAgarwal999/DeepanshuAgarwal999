@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshuagarwal999&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshuagarwal999" /> </p>
 
-- 🔭 I’m currently working on [NextJs](https://nextdev-pearl.vercel.app/)
+- 🔭 I’m currently working on [React Native](https://reactnative.dev/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeepanshuAgarwal999?tab=repositories](https://github.com/DeepanshuAgarwal999?tab=repositories)
 
